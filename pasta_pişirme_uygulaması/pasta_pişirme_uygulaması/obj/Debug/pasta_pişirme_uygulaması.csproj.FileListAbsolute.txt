@@ -1,0 +1,10 @@
+C:\Users\akanb\OneDrive\Masaüstü\MASAÜSTÜ\UDEMY C#\pasta_pişirme_uygulaması\pasta_pişirme_uygulaması\bin\Debug\pasta_pişirme_uygulaması.exe.config
+C:\Users\akanb\OneDrive\Masaüstü\MASAÜSTÜ\UDEMY C#\pasta_pişirme_uygulaması\pasta_pişirme_uygulaması\bin\Debug\pasta_pişirme_uygulaması.exe
+C:\Users\akanb\OneDrive\Masaüstü\MASAÜSTÜ\UDEMY C#\pasta_pişirme_uygulaması\pasta_pişirme_uygulaması\bin\Debug\pasta_pişirme_uygulaması.pdb
+C:\Users\akanb\OneDrive\Masaüstü\MASAÜSTÜ\UDEMY C#\pasta_pişirme_uygulaması\pasta_pişirme_uygulaması\obj\Debug\pasta_pişirme_uygulaması.csprojAssemblyReference.cache
+C:\Users\akanb\OneDrive\Masaüstü\MASAÜSTÜ\UDEMY C#\pasta_pişirme_uygulaması\pasta_pişirme_uygulaması\obj\Debug\pasta_pişirme_uygulaması.Form1.resources
+C:\Users\akanb\OneDrive\Masaüstü\MASAÜSTÜ\UDEMY C#\pasta_pişirme_uygulaması\pasta_pişirme_uygulaması\obj\Debug\pasta_pişirme_uygulaması.Properties.Resources.resources
+C:\Users\akanb\OneDrive\Masaüstü\MASAÜSTÜ\UDEMY C#\pasta_pişirme_uygulaması\pasta_pişirme_uygulaması\obj\Debug\pasta_pişirme_uygulaması.csproj.GenerateResource.cache
+C:\Users\akanb\OneDrive\Masaüstü\MASAÜSTÜ\UDEMY C#\pasta_pişirme_uygulaması\pasta_pişirme_uygulaması\obj\Debug\pasta_pişirme_uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\akanb\OneDrive\Masaüstü\MASAÜSTÜ\UDEMY C#\pasta_pişirme_uygulaması\pasta_pişirme_uygulaması\obj\Debug\pasta_pişirme_uygulaması.exe
+C:\Users\akanb\OneDrive\Masaüstü\MASAÜSTÜ\UDEMY C#\pasta_pişirme_uygulaması\pasta_pişirme_uygulaması\obj\Debug\pasta_pişirme_uygulaması.pdb
